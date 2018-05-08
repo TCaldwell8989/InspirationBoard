@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inspiration Board</string>
+    <string name="new_inspiration">New Inspiration</string>
+    <string name="delete_all_inspirations">Delete All Inspirations</string>
+    <string name="deleted">Deleted</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="title_activity_display_inspiration">DisplayInspirationActivity</string>
+    <string name="inspiration_updated">Inspiration Updated</string>
+    <string name="delete_inspiration">Inspiration Deleted</string>
+</resources>
